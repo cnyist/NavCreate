@@ -11,5 +11,3 @@
 ![](https://cdn.jsdelivr.net/gh/yunwanjia-cloud/NavCreate/1.png)
 如果写成这样, 那么会生成这样的页面
 ![](https://cdn.jsdelivr.net/gh/yunwanjia-cloud/NavCreate/2.png)
-
-**[我的博客](https://blog.zplayer.cloud)**
