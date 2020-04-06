@@ -1,0 +1,9 @@
+# 资料文档
+## 文档
+https://www.pypandas.cn/docs/,https://cdn.jsdelivr.net/gh/yunwanjia-cloud/nav/assets/images/logos/资料文档/文档/pandas.png,Pandas 文档,Pandas: 强大的 Python 数据分析支持库
+https://www.numpy.org.cn/reference/,https://cdn.jsdelivr.net/gh/yunwanjia-cloud/nav/assets/images/logos/资料文档/文档/numpy.png,NumPy 文档,NumPy 参考手册
+https://sklearn.apachecn.org/,https://cdn.jsdelivr.net/gh/yunwanjia-cloud/nav/assets/images/logos/资料文档/文档/sklearn.png,sklearn 文档,scikit-learn (sklearn) 官方文档中文版
+## 速查表
+### 机器学习
+https://developers.google.com/machine-learning/glossary?hl=zh-cn,https://cdn.jsdelivr.net/gh/yunwanjia-cloud/nav/assets/images/logos/资料文档/速查表/机器学习/1.png/,机器学习术语表,本术语表中列出了一般的机器学习术语和 TensorFlow 专用术语的定义.
+https://blog.csdn.net/liuxiao214/article/details/78130910,https://cdn.jsdelivr.net/gh/yunwanjia-cloud/nav/assets/images/logos/资料文档/速查表/机器学习/2.png/,机器学习专业名词中英文对照,机器学习专业名词中英文对照
