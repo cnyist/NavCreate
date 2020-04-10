@@ -90,13 +90,13 @@ head = """<!DOCTYPE html>
                 </header>
                 <ul id="main-menu" class="main-menu">"""
 
-middle = """                    <div class="submit-tag">
+middle = """                    <li>
                         <a href="about.html">
                             <i class="linecons-heart"></i>
                             <span class="tooltip-blue">关于本站</span>
                             <span class="label label-Primary pull-right hidden-collapsed">♥︎</span>
                         </a>
-                    </div>
+                    </li>
                 </ul>
             </div>
         </div>
